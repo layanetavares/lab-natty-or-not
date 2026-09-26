@@ -23,7 +23,6 @@ Montagem e Ritmo: O projeto foi focado em cortes rápidos e dinâmicos para pren
 
 O resultado é uma esquete rápida e divertida que brinca com o passado para refletir sobre processos eleitorais de forma leve, garantindo boas risadas e engajamento.
 
-🔗 [LINK PARA O VÍDEO AQUI]
 
 💭 Reflexão
 
