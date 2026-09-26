@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Vídeo: Eleições na Idade Média – Sátira Histórica 🎥
+📒 Descrição
 
-## 🚀 Introdução
+Este vídeo bem-humorado apresenta uma sátira rápida e envolvente sobre como seriam as eleições em plena Idade Média, unindo o caos do feudalismo com os dilemas (e absurdos) dos processos eleitorais.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+IA Generativa (Gemini): Utilizado para a criação, refinamento e revisão criativa do roteiro.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+IA Generativa (Lima): Utilizado para a geração e criação visual/geração do vídeo.
 
-### Objetivos
+Ferramentas de Edição: Ajustes finais e montagem para garantir ritmo cômico e qualidade visual.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
 
-### Template
+Roteirização: O Gemini foi o responsável por estruturar a sátira, desenvolvendo o tom de comédia de esquete, os personagens (como o arauto e os candidatos) e os diálogos irônicos.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Geração Visual: A ferramenta Lima entrou em ação para dar vida ao cenário medieval, trazendo os visuais das urnas improvisadas (tonéis de vinho) e da praça da vila.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Montagem e Ritmo: O projeto foi focado em cortes rápidos e dinâmicos para prender a atenção do espectador do início ao fim.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🚀 Resultados
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O resultado é uma esquete rápida e divertida que brinca com o passado para refletir sobre processos eleitorais de forma leve, garantindo boas risadas e engajamento.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🔗 [LINK PARA O VÍDEO AQUI]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+💭 Reflexão
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto foi um exercício incrível de criatividade, mostrando como a IA pode ser usada não apenas para o futuro ou tecnologia avançada, mas também para recriar o passado com muito humor e originalidade.
